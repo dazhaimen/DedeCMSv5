@@ -1,3 +1,5 @@
+当前项目已经迁移到[DedeCMSV6](https://github.com/DedeBIZ/DedeCMSV6)，请前往继续关注。
+
 # DedeCMS v5
 
 国内专业的PHP网站内容管理系统-织梦内容管理系统
